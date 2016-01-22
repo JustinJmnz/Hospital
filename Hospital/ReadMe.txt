@@ -2,12 +2,6 @@
     CONSOLE APPLICATION : Hospital Project Overview
 ========================================================================
 
-AppWizard has created this Hospital application for you.
-
-This file contains a summary of what you will find in each of the files that
-make up your Hospital application.
-
-
 Hospital.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
     It contains information about the version of Visual C++ that generated the file, and
@@ -21,7 +15,7 @@ Hospital.vcxproj.filters
     similar extensions under a specific node (for e.g. ".cpp" files are associated with the
     "Source Files" filter).
 
-Hospital.cpp
+Main.cpp
     This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
@@ -33,8 +27,6 @@ StdAfx.h, StdAfx.cpp
 
 /////////////////////////////////////////////////////////////////////////////
 Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
+    TODO: Add methods to edit patient info.
 
 /////////////////////////////////////////////////////////////////////////////
